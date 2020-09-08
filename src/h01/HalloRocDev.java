@@ -6,6 +6,6 @@ package h01;
 public class HalloRocDev {
 
     public static void main(String[] args) {
-        System.out.println("Hallo lotfi zaher saidi1");
+        System.out.println("Hallo lotfi zaher saidi");
     }
 }
