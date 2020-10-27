@@ -24,7 +24,7 @@ public class h142 extends Applet {
 
         //Initalisatie
         setSize(500, 300);
-        path = Opdracht2.class.getResource("/H014/resources/");
+        path = praktijk.class.getResource("/H014/resources/");
         applaus = getAudioClip(path, "applaus.wav");
 
         verdelen = new Button("Deel!");
